@@ -18,4 +18,4 @@ Estudo completo sobre arrays em PHP, abordando desde arrays simples indexados at
 
 ---
 
-[Ver online](https://mirandaromario09.github.io/2-)
+[Ver online](https://mirandaromario09.github.io/estudo-php-array)
